@@ -1,4 +1,4 @@
-# Hi, I'm Monica 👋🏾 👩🏾‍💻
+# Hi, I'm FaridZ👋🏾 👩🏾‍💻
 
 I'm a Lua developer and PHP developer
 
@@ -11,6 +11,6 @@ I’m currently learning Macroeconomics for programming
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/MrJiiz"><img align="left" width="150" height="150" src="https://i.pinimg.com/originals/a3/b9/f5/a3b9f540776450c472bbf599025a8ac9.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/MrJiiz">Twitch</a> or <a href="https://www.MrJiiz.dev">monica.dev</a> 📹 ✍🏾
+- Learning in public on <a href="https://www.twitch.tv/MrJiiz">Twitch</a> or <a href="https://www.overwolf.xyz">OVERWOLF.xyz</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/MrJiiz"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/MrJiiz/">LinkedIn</a> 💼
