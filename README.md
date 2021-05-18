@@ -18,7 +18,7 @@ I’m currently learning Macroeconomics for programming
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![TCP/UDP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco
+![TCP/UDP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrJiiz&hide=lua,shell&theme=dracula&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
