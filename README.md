@@ -1,6 +1,6 @@
 # Hi, I'm FaridZ👋🏾 👩🏾‍💻
 
-I'm a Lua developer and PHP developer
+I'm a Lua Developer and PHP Developer
 
 I’m currently learning Macroeconomics for programming
 
