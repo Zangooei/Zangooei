@@ -1,8 +1,5 @@
 # Hi, I'm FaridZ👋🏾 👩🏾‍💻
 
-I'm a Lua Developer and PHP Developer
-
-I’m currently learning Macroeconomics for programming
 
 ### Programming Languages
 
