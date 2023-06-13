@@ -4,11 +4,12 @@
 ### Programming Languages
 
 [![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)](https://github.com/Zangooei?tab=repositories&q=&type=&language=lua)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)
+[![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)](https://github.com/Zangooei?tab=repositories&q=&type=&language=php)
+[![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://github.com/Zangooei?tab=repositories&q=&type=&language=nodejs)
+[![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://github.com/Zangooei?tab=repositories&q=&type=&language=html)
+[![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)](https://github.com/Zangooei?tab=repositories&q=&type=&language=css)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Zangooei?tab=repositories&q=&type=&language=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](https://github.com/Zangooei?tab=repositories&q=&type=&language=sql)
 
 ### Technologies
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
