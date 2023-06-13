@@ -1,4 +1,4 @@
-# Hi, I'm FaridZ👋🏾 👩🏾‍💻
+# Hi, I'm Hossein Zangooei👋🏾 👩🏾‍💻
 
 
 ### Programming Languages
