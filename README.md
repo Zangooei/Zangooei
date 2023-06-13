@@ -4,17 +4,16 @@
 ### Programming Languages
 
 [![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)](https://github.com/Zangooei?tab=repositories&q=&type=&language=lua)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Zangooei?tab=repositories&q=&type=&language=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Zangooei?tab=repositories&q=&type=&language=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 ### Technologies
-
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![TCP/UDP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zangooei&hide=lua,shell&theme=dracula&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
