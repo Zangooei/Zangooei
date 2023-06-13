@@ -17,9 +17,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![TCP/UDP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zangooei,shell&theme=dracula&langs_count=20&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zangooei,shell&theme=dracula&langs_count=20&layout=compact)
 
-[![Hossein's github stats](https://github-readme-stats.vercel.app/api?username=Zangooei&show_icons=true&theme=dracula)]
+![Hossein's github stats](https://github-readme-stats.vercel.app/api?username=Zangooei&show_icons=true&theme=dracula)
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/Zangooei"><img align="left" width="150" height="150" src="https://i.pinimg.com/originals/a3/b9/f5/a3b9f540776450c472bbf599025a8ac9.gif?raw=true"></a>
